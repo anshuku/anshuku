@@ -4,7 +4,7 @@
 
 <ul>
 <li>🌍  I'm based out of Bengaluru</li>
-<li>✉️  You can contact me at [anshukumar75415@gmail.com](mailto:anshukumar75415@gmail.com)</li>
+<li>✉️  You can contact me at <a href="anshukumar75415@gmail.com">anshukumar75415@gmail.com</a></li>
 <li>🧠 I am an open-source enthusiast and a Full-Stack developer along with other skills like C, C++, and Python.</li>
 <li>🌱 I’m currently focusing on DSA.</li>
 <li>👯 I’m looking forward to being a part of various interesting projects.</li>
@@ -29,7 +29,7 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/anshuku" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/anshukumar_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anshu-kumar-692b98138/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/anshuku" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/anshukumar_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anshu-kumar-692b98138/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <hr/>
 
 ### Badges
