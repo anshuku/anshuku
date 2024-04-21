@@ -2,6 +2,8 @@
 
 <b>I am currently working as a software developer at one of the world's largest banks.</b>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuku&label=Profile%20views&color=0e75b6&style=flat" alt="anshuku" /> </p>
+
 <ul>
 <li>🌍  I'm based out of Bengaluru</li>
 <li>✉️  You can contact me at <a href="anshukumar75415@gmail.com">anshukumar75415@gmail.com</a></li>
@@ -19,9 +21,9 @@
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,expressjs" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,angular" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,idea,postman" />
   </a>
          
 </p>
@@ -39,3 +41,5 @@
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuku&show_icons=true&locale=en" alt="anshuku" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuku&" alt="anshuku" /></p>
 
+<a href="https://www.github.com/anshuku" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/anshuku?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
