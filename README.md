@@ -31,7 +31,7 @@
 
 ### Socials
 
-<p align="center"> <a href="https://www.github.com/anshuku" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anshu-kumar-692b98138/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.leetcode.com/anshukumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/anshuku/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshukumar15" height="30" width="40" /></a></p>
+<p align="center"> <a href="https://www.github.com/anshuku" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anshu-kumar-692b98138/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.leetcode.com/anshukumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshukumar15" height="30" width="40" /></a></p>
 <hr/>
 
 ### Badges
