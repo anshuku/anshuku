@@ -7,9 +7,9 @@
 <ul>
 <li>🌍  I'm based out of Bengaluru</li>
 <li>✉️  You can contact me at <a href="anshukumar75415@gmail.com">anshukumar75415@gmail.com</a></li>
-<li>🧠 I am an open-source enthusiast and a Full-Stack developer along with other skills like C, C++, and Python.</li>
-<li>🌱 I’m currently focusing on DSA.</li>
-<li>👯 I’m looking forward to being a part of various interesting projects.</li>
+<li>🧠 I am an open-source enthusiast and a Full-Stack Java developer along with other skills like Python, Angular, React, C++, Machine Learning, etc.</li>
+<li>🌱 I’m currently focusing on DSA and Problem-Solving.</li>
+<li>👨🏻‍💻 I’m looking forward to becoming a part of various interesting projects.</li>
 <li>🤝 I’m eager to know about opportunities that will help me to expand my potential.</li>
 </ul>
 
@@ -31,7 +31,7 @@
 
 ### Socials
 
-<p align="center"> <a href="https://www.github.com/anshuku" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anshu-kumar-692b98138/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.leetcode.com/anshukumar15" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshukumar15" height="32" width="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/anshuku" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anshu-kumar-692b98138/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.leetcode.com/anshukumar15" target="blank" rel="noreferrer" background-color = "black"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshukumar15" height="32" width="32" /></a></p>
 <hr/>
 
 ### Badges
