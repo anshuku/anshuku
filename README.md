@@ -1,6 +1,6 @@
 # Hi There! 😀
 
-<b>I am currently working as a software developer at one of the world's largest banks.</b>
+<b>I am a software developer at one of the world's leading semiconductor companies. I've worked at one of the world's largest banks.</b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuku&label=Profile%20views&color=0e75b6&style=flat" alt="anshuku" /> </p>
 
